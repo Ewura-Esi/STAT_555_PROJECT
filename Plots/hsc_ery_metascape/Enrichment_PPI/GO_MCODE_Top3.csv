@@ -1,0 +1,6 @@
+Network,Annotation
+MyList,GO:0048821|erythrocyte development|-10.7;GO:0061515|myeloid cell development|-9.0;GO:0030218|erythrocyte differentiation|-8.0
+MyList_MCODE_ALL,GO:0048821|erythrocyte development|-12.4;GO:0061515|myeloid cell development|-10.9;GO:0030218|erythrocyte differentiation|-10.0
+MyList_SUB2_MCODE_1,GO:0042744|hydrogen peroxide catabolic process|-11.0;GO:0042743|hydrogen peroxide metabolic process|-10.1;GO:0072593|reactive oxygen species metabolic process|-8.3
+MyList_SUB3_MCODE_2,GO:0048821|erythrocyte development|-9.7;GO:0061515|myeloid cell development|-8.7;GO:0030218|erythrocyte differentiation|-8.1
+MyList_SUB2_MCODE_3,R-MMU-2168880|Scavenging of heme from plasma|-9.0;R-MMU-2173782|Binding and Uptake of Ligands by Scavenger Receptors|-8.4;R-MMU-8957275|Post-translational protein phosphorylation|-6.8

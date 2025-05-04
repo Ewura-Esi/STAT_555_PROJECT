@@ -1,0 +1,229 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.4,GO:0043302,positive regulation of leukocyte degranulation,M1,1,0
+1,-2.2,GO:0045807,positive regulation of endocytosis,M1,1,0
+1,-2,GO:0032945,negative regulation of mononuclear cell proliferation,M1,1,0
+1,-3.9,GO:0045321,leukocyte activation,M1,1,0
+1,-3.1,GO:2000117,negative regulation of cysteine-type endopeptidase activity,M1,1,0
+1,-2.7,GO:0002237,response to molecule of bacterial origin,M1,1,0
+1,-2.5,GO:1903556,negative regulation of tumor necrosis factor superfamily cytokine production,M1,1,0
+1,-2.1,GO:0045621,positive regulation of lymphocyte differentiation,M1,1,0
+1,-2.1,R-MMU-1442490,Collagen degradation,M1,1,0
+1,-3.1,GO:0032693,negative regulation of interleukin-10 production,M1,1,0
+1,-3.1,GO:0052548,regulation of endopeptidase activity,M1,1,0
+1,-2.9,R-MMU-372790,Signaling by GPCR,M1,1,0
+1,-2.4,GO:0006958,"complement activation, classical pathway",M1,1,0
+1,-2.8,GO:0002703,regulation of leukocyte mediated immunity,M1,1,0
+1,-7.2,R-MMU-6803157,Antimicrobial peptides,M1,1,0
+1,-3.2,GO:0046631,alpha-beta T cell activation,M1,1,0
+1,-2.1,GO:0045670,regulation of osteoclast differentiation,M1,1,0
+1,-3.1,GO:0002251,organ or tissue specific immune response,M1,1,0
+1,-2.6,GO:1903039,positive regulation of leukocyte cell-cell adhesion,M1,1,0
+1,-3.7,GO:0032815,negative regulation of natural killer cell activation,M1,1,0
+1,-2.1,GO:0050868,negative regulation of T cell activation,M1,1,0
+1,-2.3,GO:0060325,face morphogenesis,M1,1,0
+1,-2.1,GO:0006914,autophagy,M1,1,0
+1,-2.4,GO:0040017,positive regulation of locomotion,M1,1,0
+1,-3.1,GO:0050830,defense response to Gram-positive bacterium,M1,1,0
+1,-2.6,GO:0030335,positive regulation of cell migration,M1,1,0
+1,-3.2,GO:0032674,regulation of interleukin-5 production,M1,1,0
+1,-3.5,GO:0019731,antibacterial humoral response,M1,1,0
+1,-2.7,GO:0032963,collagen metabolic process,M1,1,0
+1,-3.1,GO:0045637,regulation of myeloid cell differentiation,M1,1,0
+1,-3.2,R-MMU-140875,Common Pathway of Fibrin Clot Formation,M1,1,0
+1,-4.3,GO:0030099,myeloid cell differentiation,M1,1,0
+1,-2.7,GO:0071677,positive regulation of mononuclear cell migration,M1,1,0
+1,-2.5,GO:0098869,cellular oxidant detoxification,M1,1,0
+1,-4.5,GO:0097529,myeloid leukocyte migration,M1,1,0
+1,-2.9,mmu04061,Viral protein interaction with cytokine and cytokine receptor - Mus musculus (house mouse),M1,1,0
+1,-2.3,GO:0071222,cellular response to lipopolysaccharide,M1,1,0
+1,-2.1,WP1396,GPCRs non odorant,M1,1,0
+1,-2,GO:0071675,regulation of mononuclear cell migration,M1,1,0
+1,-2.1,R-MMU-1592389,Activation of Matrix Metalloproteinases,M1,1,0
+1,-2.4,GO:0001776,leukocyte homeostasis,M1,1,0
+1,-7.5,GO:0042330,taxis,M1,1,0
+1,-3.2,GO:0019722,calcium-mediated signaling,M1,1,0
+1,-2.8,GO:0097530,granulocyte migration,M1,1,0
+1,-5.9,GO:1903555,regulation of tumor necrosis factor superfamily cytokine production,M1,1,0
+1,-5,GO:0050778,positive regulation of immune response,M1,1,0
+1,-3.3,GO:0035710,"CD4-positive, alpha-beta T cell activation",M1,1,0
+1,-2.2,GO:0032944,regulation of mononuclear cell proliferation,M1,1,0
+1,-3.1,GO:0042113,B cell activation,M1,1,0
+1,-2.8,GO:0032496,response to lipopolysaccharide,M1,1,0
+1,-2.7,GO:0045071,negative regulation of viral genome replication,M1,1,0
+1,-2.2,GO:0061082,myeloid leukocyte cytokine production,M1,1,0
+1,-2.1,mmu00983,Drug metabolism - other enzymes - Mus musculus (house mouse),M1,1,0
+1,-2.1,mmu05418,Fluid shear stress and atherosclerosis - Mus musculus (house mouse),M1,1,0
+1,-2.2,GO:0071219,cellular response to molecule of bacterial origin,M1,1,0
+1,-7.5,GO:0006954,inflammatory response,M1,1,0
+1,-3.6,GO:0030595,leukocyte chemotaxis,M1,1,0
+1,-3.2,GO:0098754,detoxification,M1,1,0
+1,-2.8,GO:0032753,positive regulation of interleukin-4 production,M1,1,0
+1,-2.6,GO:0031664,regulation of lipopolysaccharide-mediated signaling pathway,M1,1,0
+1,-2.9,GO:0006956,complement activation,M1,1,0
+1,-5.5,GO:0050865,regulation of cell activation,M1,1,0
+1,-3.6,GO:0002521,leukocyte differentiation,M1,1,0
+1,-2.7,GO:0002253,activation of immune response,M1,1,0
+1,-2,GO:0001936,regulation of endothelial cell proliferation,M1,1,0
+1,-3.8,GO:0046649,lymphocyte activation,M1,1,0
+1,-2,GO:0043065,positive regulation of apoptotic process,M1,1,0
+1,-3.9,GO:0050866,negative regulation of cell activation,M1,1,0
+1,-4.7,GO:0032714,negative regulation of interleukin-5 production,M1,1,0
+1,-2.1,GO:0051251,positive regulation of lymphocyte activation,M1,1,0
+1,-2.8,GO:0052547,regulation of peptidase activity,M1,1,0
+1,-2.2,R-MMU-1474244,Extracellular matrix organization,M1,1,0
+1,-2.6,GO:1902107,positive regulation of leukocyte differentiation,M1,1,0
+1,-2.5,R-MMU-140877,Formation of Fibrin Clot (Clotting Cascade),M1,1,0
+1,-3.4,GO:2000116,regulation of cysteine-type endopeptidase activity,M1,1,0
+1,-5.3,GO:0032103,positive regulation of response to external stimulus,M1,1,0
+1,-2.7,WP441,Matrix metalloproteinases,M1,1,0
+1,-2.8,GO:0120161,regulation of cold-induced thermogenesis,M1,1,0
+1,-2.5,GO:0050869,negative regulation of B cell activation,M1,1,0
+1,-2.1,GO:1904645,response to amyloid-beta,M1,1,0
+1,-4.1,GO:0001818,negative regulation of cytokine production,M1,1,0
+1,-3.1,GO:0002687,positive regulation of leukocyte migration,M1,1,0
+1,-2.2,GO:0002021,response to dietary excess,M1,1,0
+1,-2.2,GO:0002455,humoral immune response mediated by circulating immunoglobulin,M1,1,0
+1,-2.3,GO:0050829,defense response to Gram-negative bacterium,M1,1,0
+1,-2.3,GO:0042832,defense response to protozoan,M1,1,0
+1,-3.2,GO:0002385,mucosal immune response,M1,1,0
+1,-2.2,GO:0007162,negative regulation of cell adhesion,M1,1,0
+1,-2.8,GO:0002523,leukocyte migration involved in inflammatory response,M1,1,0
+1,-3.1,GO:0006959,humoral immune response,M1,1,0
+1,-2.2,GO:0042129,regulation of T cell proliferation,M1,1,0
+1,-2.6,GO:1903708,positive regulation of hemopoiesis,M1,1,0
+1,-2,GO:0010762,regulation of fibroblast migration,M1,1,0
+1,-3.4,GO:1903900,regulation of viral life cycle,M1,1,0
+1,-5,GO:0002250,adaptive immune response,M1,1,0
+1,-2.7,WP458,Inflammatory response pathway,M1,1,0
+1,-2.3,GO:0009615,response to virus,M1,1,0
+1,-2.3,GO:0042130,negative regulation of T cell proliferation,M1,1,0
+1,-2.8,GO:0030098,lymphocyte differentiation,M1,1,0
+1,-4.4,GO:0051249,regulation of lymphocyte activation,M1,1,0
+1,-2.3,GO:0045582,positive regulation of T cell differentiation,M1,1,0
+1,-5.1,GO:0022407,regulation of cell-cell adhesion,M1,1,0
+1,-3.3,GO:0050863,regulation of T cell activation,M1,1,0
+1,-2.3,GO:1904018,positive regulation of vasculature development,M1,1,0
+1,-5.5,GO:0001819,positive regulation of cytokine production,M1,1,0
+1,-2.6,GO:0030217,T cell differentiation,M1,1,0
+1,-2.4,GO:1990868,response to chemokine,M1,1,0
+1,-3.9,GO:0051250,negative regulation of lymphocyte activation,M1,1,0
+1,-2.5,GO:0043277,apoptotic cell clearance,M1,1,0
+1,-2.1,R-MMU-418594,G alpha (i) signalling events,M1,1,0
+1,-2.5,GO:0045619,regulation of lymphocyte differentiation,M1,1,0
+1,-2.5,GO:0034121,regulation of toll-like receptor signaling pathway,M1,1,0
+1,-2.3,GO:1903901,negative regulation of viral life cycle,M1,1,0
+1,-7.6,GO:0006935,chemotaxis,M1,1,0
+1,-2.6,GO:0035455,response to interferon-alpha,M1,1,0
+1,-3.7,GO:0043903,regulation of biological process involved in symbiotic interaction,M1,1,0
+1,-4,GO:1903037,regulation of leukocyte cell-cell adhesion,M1,1,0
+1,-3.7,GO:0070486,leukocyte aggregation,M1,1,0
+1,-3.2,GO:2000379,positive regulation of reactive oxygen species metabolic process,M1,1,0
+1,-4.1,GO:1903557,positive regulation of tumor necrosis factor superfamily cytokine production,M1,1,0
+1,-2.6,GO:0070098,chemokine-mediated signaling pathway,M1,1,0
+1,-3.2,GO:0043408,regulation of MAPK cascade,M1,1,0
+1,-2.4,GO:1990869,cellular response to chemokine,M1,1,0
+1,-3.7,GO:0032673,regulation of interleukin-4 production,M1,1,0
+1,-2.4,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,M1,1,0
+1,-3,R-MMU-5668599,RHO GTPases Activate NADPH Oxidases,M1,1,0
+1,-2.8,GO:0120162,positive regulation of cold-induced thermogenesis,M1,1,0
+1,-2.7,GO:0002761,regulation of myeloid leukocyte differentiation,M1,1,0
+1,-2.5,WP189,GPCRs class A rhodopsin like,M1,1,0
+1,-2.6,GO:0002227,innate immune response in mucosa,M1,1,0
+1,-3.1,GO:1903131,mononuclear cell differentiation,M1,1,0
+1,-2.6,GO:1903038,negative regulation of leukocyte cell-cell adhesion,M1,1,0
+1,-2.8,GO:0090026,positive regulation of monocyte chemotaxis,M1,1,0
+1,-2.5,GO:2000147,positive regulation of cell motility,M1,1,0
+1,-3.9,GO:0061484,hematopoietic stem cell homeostasis,M1,1,0
+1,-5.4,GO:0002694,regulation of leukocyte activation,M1,1,0
+1,-3.4,GO:0048872,homeostasis of number of cells,M1,1,0
+1,-3.9,GO:0022409,positive regulation of cell-cell adhesion,M1,1,0
+1,-2.1,GO:0010951,negative regulation of endopeptidase activity,M1,1,0
+1,-2,GO:0045069,regulation of viral genome replication,M1,1,0
+1,-4.1,GO:0002699,positive regulation of immune effector process,M1,1,0
+1,-2.1,GO:0060323,head morphogenesis,M1,1,0
+1,-2.2,GO:0050670,regulation of lymphocyte proliferation,M1,1,0
+1,-2,GO:0050672,negative regulation of lymphocyte proliferation,M1,1,0
+1,-2.6,GO:0060627,regulation of vesicle-mediated transport,M1,1,0
+1,-4.2,GO:0002695,negative regulation of leukocyte activation,M1,1,0
+1,-4.2,GO:0050764,regulation of phagocytosis,M1,1,0
+1,-3.8,GO:0002831,regulation of response to biotic stimulus,M1,1,0
+1,-2,GO:0006897,endocytosis,M1,1,0
+1,-3.2,GO:0032760,positive regulation of tumor necrosis factor production,M1,1,0
+1,-2.4,GO:0002886,regulation of myeloid leukocyte mediated immunity,M1,1,0
+1,-2.7,GO:0043410,positive regulation of MAPK cascade,M1,1,0
+1,-4.3,GO:0050900,leukocyte migration,M1,1,0
+1,-3.3,GO:1901342,regulation of vasculature development,M1,1,0
+1,-2.6,GO:0022408,negative regulation of cell-cell adhesion,M1,1,0
+1,-2.5,GO:0030574,collagen catabolic process,M1,1,0
+1,-2.9,GO:0002696,positive regulation of leukocyte activation,M1,1,0
+1,-3.1,GO:0050766,positive regulation of phagocytosis,M1,1,0
+1,-8.3,R-MMU-6799990,Metal sequestration by antimicrobial proteins,M1,1,0
+1,-2.7,GO:0032653,regulation of interleukin-10 production,M1,1,0
+1,-2,GO:0046651,lymphocyte proliferation,M1,1,0
+1,-3.1,GO:0032814,regulation of natural killer cell activation,M1,1,0
+1,-3,GO:0002573,myeloid leukocyte differentiation,M1,1,0
+1,-2.3,GO:0045766,positive regulation of angiogenesis,M1,1,0
+1,-2.9,GO:0002705,positive regulation of leukocyte mediated immunity,M1,1,0
+1,-15,R-MMU-6798695,Neutrophil degranulation,M1,1,0
+1,-3.7,GO:0007159,leukocyte cell-cell adhesion,M1,1,0
+1,-2.2,R-MMU-416476,G alpha (q) signalling events,M1,1,0
+1,-3,GO:0052372,modulation by symbiont of entry into host,M1,1,0
+1,-3.4,GO:0045765,regulation of angiogenesis,M1,1,0
+1,-2.3,GO:0002252,immune effector process,M1,1,0
+1,-2.2,mmu04970,Salivary secretion - Mus musculus (house mouse),M1,1,0
+1,-2,GO:0006909,phagocytosis,M1,1,0
+1,-2.4,GO:0002768,immune response-regulating cell surface receptor signaling pathway,M1,1,0
+1,-2.5,GO:0002719,negative regulation of cytokine production involved in immune response,M1,1,0
+1,-7,GO:0040011,locomotion,M1,1,0
+1,-3.2,GO:0042110,T cell activation,M1,1,0
+1,-3.1,GO:0046596,regulation of viral entry into host cell,M1,1,0
+1,-3,GO:0002833,positive regulation of response to biotic stimulus,M1,1,0
+1,-2.7,GO:0002888,positive regulation of myeloid leukocyte mediated immunity,M1,1,0
+1,-2.5,GO:0050878,regulation of body fluid levels,M1,1,0
+1,-2.5,GO:0042060,wound healing,M1,1,0
+1,-3.9,GO:0045785,positive regulation of cell adhesion,M1,1,0
+1,-2.2,GO:0045580,regulation of T cell differentiation,M1,1,0
+1,-2.1,GO:0061919,process utilizing autophagic mechanism,M1,1,0
+1,-2.3,GO:0032649,regulation of type II interferon production,M1,1,0
+1,-5.5,GO:0019221,cytokine-mediated signaling pathway,M1,1,0
+1,-4.8,GO:0002697,regulation of immune effector process,M1,1,0
+1,-2.5,GO:0030100,regulation of endocytosis,M1,1,0
+1,-2.1,WP4466,Oxidative stress and redox pathway,M1,1,0
+1,-3.3,GO:0002764,immune response-regulating signaling pathway,M1,1,0
+1,-5.5,GO:0060326,cell chemotaxis,M1,1,0
+1,-4.1,GO:0045088,regulation of innate immune response,M1,1,0
+1,-3.6,GO:0019730,antimicrobial humoral response,M1,1,0
+1,-3.4,GO:0048525,negative regulation of viral process,M1,1,0
+1,-2.1,GO:0098609,cell-cell adhesion,M1,1,0
+1,-4.6,GO:0002683,negative regulation of immune system process,M1,1,0
+1,-2.2,GO:0002701,negative regulation of production of molecular mediator of immune response,M1,1,0
+1,-3.1,GO:0009636,response to toxic substance,M1,1,0
+1,-2.7,GO:0050729,positive regulation of inflammatory response,M1,1,0
+1,-2.1,GO:0002688,regulation of leukocyte chemotaxis,M1,1,0
+1,-2,GO:0070232,regulation of T cell apoptotic process,M1,1,0
+1,-2.1,GO:0001562,response to protozoan,M1,1,0
+1,-3.1,R-MMU-388396,GPCR downstream signalling,M1,1,0
+1,-11,GO:0042742,defense response to bacterium,M1,1,0
+1,-2.9,GO:1902105,regulation of leukocyte differentiation,M1,1,0
+1,-6.6,GO:0001816,cytokine production,M1,1,0
+1,-2.6,GO:0071276,cellular response to cadmium ion,M1,1,0
+1,-3.4,GO:0097237,cellular response to toxic substance,M1,1,0
+1,-2.8,GO:0002685,regulation of leukocyte migration,M1,1,0
+1,-4.3,GO:0031349,positive regulation of defense response,M1,1,0
+1,-2.5,GO:0035458,cellular response to interferon-beta,M1,1,0
+1,-2.3,GO:0050870,positive regulation of T cell activation,M1,1,0
+1,-2.7,GO:0045089,positive regulation of innate immune response,M1,1,0
+1,-3.3,GO:0035456,response to interferon-beta,M1,1,0
+1,-2.1,GO:0050864,regulation of B cell activation,M1,1,0
+1,-3,GO:0050792,regulation of viral process,M1,1,0
+1,-2.7,GO:0050867,positive regulation of cell activation,M1,1,0
+1,-2.5,GO:0046597,negative regulation of viral entry into host cell,M1,1,0
+1,-3,mmu04657,IL-17 signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2.6,GO:0050727,regulation of inflammatory response,M1,1,0
+1,-2,GO:0045444,fat cell differentiation,M1,1,0
+1,-2.4,R-MMU-1474228,Degradation of the extracellular matrix,M1,1,0
+1,-2.5,GO:0090025,regulation of monocyte chemotaxis,M1,1,0
+1,-5.1,GO:0032680,regulation of tumor necrosis factor production,M1,1,0
+1,-2.8,GO:1990748,cellular detoxification,M1,1,0
+1,-3.2,GO:0043542,endothelial cell migration,M1,1,0
+1,-3.3,GO:1903706,regulation of hemopoiesis,M1,1,0

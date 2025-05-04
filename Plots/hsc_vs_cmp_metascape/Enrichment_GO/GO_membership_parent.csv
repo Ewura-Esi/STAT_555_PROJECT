@@ -1,0 +1,16 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-10.771124133337688,GO:0044419,biological process involved in interspecies interaction between organisms,M1,1,GO:0042742 defense response to bacterium
+1,-7.564777385645143,GO:0040011,locomotion,M1,1,GO:0006935 chemotaxis
+1,-7.486134492724139,GO:0050896,response to stimulus,M1,1,GO:0006954 inflammatory response
+1,-6.5586300076572,GO:0032501,multicellular organismal process,M1,1,GO:0001816 cytokine production
+1,-5.454842032924706,GO:0048518,positive regulation of biological process,M1,1,GO:0001819 positive regulation of cytokine production
+1,-5.411579604181348,GO:0002376,immune system process,M1,1,GO:0002694 regulation of leukocyte activation
+1,-5.129792999719257,GO:0050789,regulation of biological process,M1,1,GO:0022407 regulation of cell-cell adhesion
+1,-4.706635693434584,GO:0048519,negative regulation of biological process,M1,1,GO:0032714 negative regulation of interleukin-5 production
+1,-4.259779927604586,GO:0032502,developmental process,M1,1,GO:0030099 myeloid cell differentiation
+1,-4.188005744416983,GO:0051179,localization,M1,1,GO:0050764 regulation of phagocytosis
+1,-3.9037606745774505,GO:0042592,homeostatic process,M1,1,GO:0061484 hematopoietic stem cell homeostasis
+1,-3.735831638685727,GO:0009987,cellular process,M1,1,GO:0007159 leukocyte cell-cell adhesion
+1,-3.4249371794688828,GO:0016032,viral process,M1,1,GO:1903900 regulation of viral life cycle
+1,-3.2435279160344463,GO:0098754,detoxification,M1,1,GO:0098754 detoxification
+1,-2.469326100430261,GO:0065007,biological regulation,M1,1,GO:0050878 regulation of body fluid levels

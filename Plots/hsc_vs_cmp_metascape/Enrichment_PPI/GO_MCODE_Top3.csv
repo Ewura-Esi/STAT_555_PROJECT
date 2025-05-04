@@ -1,0 +1,6 @@
+Network,Annotation
+MyList,R-MMU-6798695|Neutrophil degranulation|-15.7;R-MMU-6799990|Metal sequestration by antimicrobial proteins|-10.2;GO:0006935|chemotaxis|-9.6
+MyList_MCODE_ALL,GO:0070486|leukocyte aggregation|-7.2;WP4466|Oxidative stress and redox pathway|-6.6;R-MMU-6798695|Neutrophil degranulation|-6.6
+MyList_SUB1_MCODE_1,GO:0070486|leukocyte aggregation|-8.1;R-MMU-5668599|RHO GTPases Activate NADPH Oxidases|-7.3;R-MMU-6798695|Neutrophil degranulation|-6.8
+MyList_SUB3_MCODE_2,GO:0030036|actin cytoskeleton organization|-4.8;GO:0030029|actin filament-based process|-4.7
+MyList_SUB4_MCODE_3,mmu00982|Drug metabolism - cytochrome P450 - Mus musculus (house mouse)|-7.4;mmu00980|Metabolism of xenobiotics by cytochrome P450 - Mus musculus (house mouse)|-7.4

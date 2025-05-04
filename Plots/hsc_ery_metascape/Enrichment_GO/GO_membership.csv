@@ -1,0 +1,89 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-2.8,GO:0036293,response to decreased oxygen levels,M1,1,0
+1,-7.4,GO:0048872,homeostasis of number of cells,M1,1,0
+1,-2.2,GO:1901879,regulation of protein depolymerization,M1,1,0
+1,-2.1,GO:0031344,regulation of cell projection organization,M1,1,0
+1,-3.7,mmu05143,African trypanosomiasis - Mus musculus (house mouse),M1,1,0
+1,-3.6,GO:0031333,negative regulation of protein-containing complex assembly,M1,1,0
+1,-2.8,GO:0060999,positive regulation of dendritic spine development,M1,1,0
+1,-6.6,R-MMU-2173782,Binding and Uptake of Ligands by Scavenger Receptors,M1,1,0
+1,-2.5,GO:0002718,regulation of cytokine production involved in immune response,M1,1,0
+1,-3.6,GO:0030835,negative regulation of actin filament depolymerization,M1,1,0
+1,-2.3,GO:0090066,regulation of anatomical structure size,M1,1,0
+1,-8.2,GO:0030218,erythrocyte differentiation,M1,1,0
+1,-4.9,GO:0098771,inorganic ion homeostasis,M1,1,0
+1,-3.7,GO:0006873,intracellular monoatomic ion homeostasis,M1,1,0
+1,-2.3,GO:0032409,regulation of transporter activity,M1,1,0
+1,-2.2,GO:0034220,monoatomic ion transmembrane transport,M1,1,0
+1,-2,GO:0051962,positive regulation of nervous system development,M1,1,0
+1,-3.3,GO:0019725,cellular homeostasis,M1,1,0
+1,-2,GO:0098655,monoatomic cation transmembrane transport,M1,1,0
+1,-3.6,GO:0006778,porphyrin-containing compound metabolic process,M1,1,0
+1,-5.5,GO:0055080,monoatomic cation homeostasis,M1,1,0
+1,-2.1,GO:0006812,monoatomic cation transport,M1,1,0
+1,-2.1,GO:0098739,import across plasma membrane,M1,1,0
+1,-2.5,GO:0060976,coronary vasculature development,M1,1,0
+1,-2.3,GO:0060998,regulation of dendritic spine development,M1,1,0
+1,-3,GO:0070372,regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-3.1,GO:0030834,regulation of actin filament depolymerization,M1,1,0
+1,-2,GO:0003254,regulation of membrane depolarization,M1,1,0
+1,-2.9,GO:0030837,negative regulation of actin filament polymerization,M1,1,0
+1,-7.3,GO:0061515,myeloid cell development,M1,1,0
+1,-4.3,GO:0006779,porphyrin-containing compound biosynthetic process,M1,1,0
+1,-2.2,GO:0042391,regulation of membrane potential,M1,1,0
+1,-3,GO:0002702,positive regulation of production of molecular mediator of immune response,M1,1,0
+1,-2.3,GO:0099601,regulation of neurotransmitter receptor activity,M1,1,0
+1,-2.1,mmu04148,Efferocytosis - Mus musculus (house mouse),M1,1,0
+1,-6.3,R-MMU-2168880,Scavenging of heme from plasma,M1,1,0
+1,-2.5,GO:0032414,positive regulation of ion transmembrane transporter activity,M1,1,0
+1,-2.7,GO:0001892,embryonic placenta development,M1,1,0
+1,-6.7,GO:0002262,myeloid cell homeostasis,M1,1,0
+1,-5.8,R-MMU-1237044,Erythrocytes take up carbon dioxide and release oxygen,M1,1,0
+1,-3,GO:0001819,positive regulation of cytokine production,M1,1,0
+1,-3.4,GO:0042743,hydrogen peroxide metabolic process,M1,1,0
+1,-2.1,GO:0009798,axis specification,M1,1,0
+1,-3.2,GO:0030003,intracellular monoatomic cation homeostasis,M1,1,0
+1,-2.6,GO:0043277,apoptotic cell clearance,M1,1,0
+1,-2.4,GO:0022898,regulation of transmembrane transporter activity,M1,1,0
+1,-2.2,R-MMU-425407,SLC-mediated transmembrane transport,M1,1,0
+1,-2.2,GO:0022604,regulation of cell morphogenesis,M1,1,0
+1,-2,GO:0050731,positive regulation of peptidyl-tyrosine phosphorylation,M1,1,0
+1,-2.5,GO:0098662,inorganic cation transmembrane transport,M1,1,0
+1,-2.1,GO:1901222,regulation of non-canonical NF-kappaB signal transduction,M1,1,0
+1,-2.6,GO:1902904,negative regulation of supramolecular fiber organization,M1,1,0
+1,-3.1,GO:0001666,response to hypoxia,M1,1,0
+1,-2.2,GO:0120035,regulation of plasma membrane bounded cell projection organization,M1,1,0
+1,-2.7,GO:0001941,postsynaptic membrane organization,M1,1,0
+1,-3.2,GO:0033013,tetrapyrrole metabolic process,M1,1,0
+1,-2.9,GO:0002700,regulation of production of molecular mediator of immune response,M1,1,0
+1,-3.4,GO:0070482,response to oxygen levels,M1,1,0
+1,-2.9,GO:0098660,inorganic ion transmembrane transport,M1,1,0
+1,-2.1,GO:0010256,endomembrane system organization,M1,1,0
+1,-2.6,GO:0060586,multicellular organismal-level iron ion homeostasis,M1,1,0
+1,-2.7,GO:0060560,developmental growth involved in morphogenesis,M1,1,0
+1,-2.7,GO:0098657,import into cell,M1,1,0
+1,-2.1,GO:0018108,peptidyl-tyrosine phosphorylation,M1,1,0
+1,-2.3,GO:0043242,negative regulation of protein-containing complex disassembly,M1,1,0
+1,-2.5,R-MMU-382551,Transport of small molecules,M1,1,0
+1,-3.6,GO:0055082,intracellular chemical homeostasis,M1,1,0
+1,-5.8,R-MMU-1480926,O2/CO2 exchange in erythrocytes,M1,1,0
+1,-2.3,GO:0007616,long-term memory,M1,1,0
+1,-6.7,R-MMU-1247673,Erythrocytes take up oxygen and release carbon dioxide,M1,1,0
+1,-2.5,GO:1901880,negative regulation of protein depolymerization,M1,1,0
+1,-4.3,GO:0042744,hydrogen peroxide catabolic process,M1,1,0
+1,-2.1,mmu04010,MAPK signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-4.3,GO:0033014,tetrapyrrole biosynthetic process,M1,1,0
+1,-9.4,GO:0048821,erythrocyte development,M1,1,0
+1,-2.8,GO:0070374,positive regulation of ERK1 and ERK2 cascade,M1,1,0
+1,-2.1,GO:0018212,peptidyl-tyrosine modification,M1,1,0
+1,-5.7,mmu05144,Malaria - Mus musculus (house mouse),M1,1,0
+1,-3.9,GO:0051693,actin filament capping,M1,1,0
+1,-2.2,GO:0045685,regulation of glial cell differentiation,M1,1,0
+1,-2.4,GO:0032411,positive regulation of transporter activity,M1,1,0
+1,-3.2,GO:0002720,positive regulation of cytokine production involved in immune response,M1,1,0
+1,-6.2,GO:0030099,myeloid cell differentiation,M1,1,0
+1,-5.4,GO:0050801,monoatomic ion homeostasis,M1,1,0
+1,-7.8,GO:0034101,erythrocyte homeostasis,M1,1,0
+1,-2.5,mmu04020,Calcium signaling pathway - Mus musculus (house mouse),M1,1,0
+1,-2,GO:1901888,regulation of cell junction assembly,M1,1,0
+1,-3.5,GO:0032272,negative regulation of protein polymerization,M1,1,0

@@ -1,0 +1,5 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+PaGenBase,36,PGB:00008,Tissue-specific: spleen,,-12,11,12,21160,188,160,16,10,2.4,13828|13829|14934|19743|19824|20533|20617|20739|22640|23925|58185|70026|77433|192194|232670|328563,Epb42|Dmtn|Gypa|Rhag|Trim10|Slc4a1|Snca|Spta1|Zfp1|Kel|Rsad2|Tspo2|Redrum|Btnl10|Tspan33|Apol11b,-9,MyList
+PaGenBase,36,PGB:00266,Cell-specific: mega erythrocyte progenitor,,-11,33,17,21160,36,160,9,5.6,1.8,11733|13828|14934|19743|19824|20617|23925|70026|213435,Ank1|Epb42|Gypa|Rhag|Trim10|Snca|Kel|Tspo2|Mylk3,-8.6,MyList
+PaGenBase,36,PGB:00030,Tissue-specific: bone marrow,,-8,15,11,21160,80,160,9,5.6,1.8,13828|19824|20533|20741|23925|58185|70026|77433|192194,Epb42|Trim10|Slc4a1|Sptb|Kel|Rsad2|Tspo2|Redrum|Btnl10,-5.5,MyList
+TRRUST,34,TRR01504,Regulated by: Twist1,,-2.8,13,5.8,21160,30,160,3,1.9,1.1,14183|21687|50706,Fgfr2|Tek|Postn,-0.46,MyList
